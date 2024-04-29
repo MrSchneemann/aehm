@@ -12,7 +12,7 @@ To get started with the bot, follow these steps:
 1. **Clone this repository** to your local machine:
 
 ```bash
-git clone https://github.dev/MrSchneemann/aehm.git
+git clone https://github.com/MrSchneemann/aehm.git
 ```
 
 2. **Install dependencies**:
