@@ -9,7 +9,7 @@
     "command": "node deploy-commands.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "snow",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.14.1",
